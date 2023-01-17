@@ -22,8 +22,8 @@ Change Password(admin)
 
 
 Username: admin
-Password: Test@12345
-
+Password: 12345
+# or 
 Username: admin
 Password: Test@12345
 
